@@ -5,7 +5,6 @@
 -   Waiting for Elixir V3 to be available
 - 💞️ I’m looking to collaborate on running nodes also considering becoming full time prod validator
 - 📫 How to reach me :
--   @mickpl31 on discord
--   @elPedroDeLaVega on telegram
--   
+  * @mickpl31 on discord
+  * @elPedroDeLaVega on telegram  
 
